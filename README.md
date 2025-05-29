@@ -19,3 +19,48 @@ TravelQuest is a responsive frontend application designed to provide a seamless 
 - **React**: A JavaScript library for building user interfaces.
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
 - **Lucide React**: A collection of beautiful, handcrafted SVG icons for React.
+
+## Setup and Run Instructions
+
+Follow these steps to get the TravelQuest application running on your local machine.
+
+### Prerequisites
+
+Make sure you have **Node.js** and **npm** installed.
+
+* **Node.js**: [Download & Install Node.js](https://nodejs.org/)
+* **npm**: Comes with Node.js
+
+### Installation
+
+1.  **Clone the repository:**
+
+    ```bash
+    git clone <repository_url>
+    cd my-app
+    ```
+
+2.  **Install dependencies:**
+
+    ```bash
+    npm install
+    ```
+
+### Running the Application
+
+1.  **Start the development server:**
+
+    ```bash
+    npm run dev
+    ```
+
+2.  The application will automatically open in your browser at `http://localhost:3000` (or another available port).
+
+---
+
+## Future Enhancements
+
+* Integration with a real backend API for dynamic data and persistent bookings.
+* More advanced animations and transitions for a richer user experience.
+* Implementation of search and filtering options for destinations.
+* User authentication and a personalized booking history section.
