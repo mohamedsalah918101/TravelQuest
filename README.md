@@ -18,7 +18,7 @@ TravelQuest is a responsive frontend application designed to provide a seamless 
 
 You can watch a video demonstration of the TravelQuest application here:
 
-[Watch the Demo Video on Google Drive](https://drive.google.com/file/d/1vROqA8Npa8RkAtLEP1nuwKXeUsSP9mnw/view?usp=sharing)
+[Click Here to Watch the Demo Video](https://drive.google.com/file/d/1vROqA8Npa8RkAtLEP1nuwKXeUsSP9mnw/view?usp=sharing)
 
 ---
 
